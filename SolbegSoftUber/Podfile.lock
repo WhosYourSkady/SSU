@@ -1,0 +1,36 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - CardIO (5.3.2)
+  - ECSlidingViewController (2.0.3)
+  - Google-Maps-iOS-SDK (1.9.2)
+  - Masonry (1.0.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CardIO
+  - ECSlidingViewController
+  - Google-Maps-iOS-SDK
+  - Masonry
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CardIO: 92c45caef0d986c4a303a7afba0c9b76ff2b1f6e
+  ECSlidingViewController: 6485c14f23b4487e9946535421ca8f111f86cc53
+  Google-Maps-iOS-SDK: 7f89cc1edb3ca239a410e5bc83cd1e060db3a289
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+
+COCOAPODS: 0.39.0
